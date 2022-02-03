@@ -1,0 +1,13 @@
+name: mental_health_dashboard
+title: mental_health_dashboard
+username:
+account: im2-ibk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4498373
+bundleId: 5538069
+url: https://im2-ibk.shinyapps.io/mental_health_dashboard/
+when: 1643877439.64778
+lastSyncTime: 1643877439.64778
+asMultiple: FALSE
+asStatic: FALSE
